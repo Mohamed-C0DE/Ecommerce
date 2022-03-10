@@ -1,5 +1,10 @@
-LHL Node Skeleton
-=========
+# Property-Lister
+
+Property-Lister is a buy/sell listing web app, where users can look at properties they are interested in and message sellers to get more details, vist, or buy the property.
+
+## Final Product
+
+!["Screenshot of final project pages"](https://github.com/Mohamed-C0DE/Property-Lister/blob/master/Propertylister.gif?raw=true)
 
 ## Project Setup
 
@@ -11,6 +16,11 @@ The following steps are only for _one_ of the group members to perform.
 4. Add your team members as collaborators to the project so that they can push to this repo
 5. Let your team members know the repo URL so that they use the same repo (they should _not_ create a copy/fork of this repo since that will add additional workflow complexity to the project)
 
+## Tech Stack
+- Node
+- Express
+- Sass
+- EJS
 
 ## Getting Started
 
@@ -41,3 +51,6 @@ The following steps are only for _one_ of the group members to perform.
 - Node 10.x or above
 - NPM 5.x or above
 - PG 6.x
+- Cookie-session
+- Cookie-parser
+- pg
