@@ -1,6 +1,6 @@
 # Property-Lister
 
-Property-Lister is a buy/sell listing web app, where users can look at properties they are interested in and message sellers to get more details, vist, or buy the property.
+Property-Lister is a buy/sell listing web app, where users can look at properties they are interested in and message sellers to get more details, visit, or buy the property.
 
 ## Final Product
 
